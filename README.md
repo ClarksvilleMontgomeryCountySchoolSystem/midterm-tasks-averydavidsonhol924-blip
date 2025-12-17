@@ -4,7 +4,9 @@
 # Each block is independent and can be fixed separately
 
 # Snippet 1:
-
+books = True
+if books = 12
+print("You have a lot of books!")
 
 
 # Snippet 2:
